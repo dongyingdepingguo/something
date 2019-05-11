@@ -7,4 +7,5 @@ Creating a new branch is simple.
 Rectify a bug.
 Rectify an another bug-001.
 This operation from dev branch.
+Edit some information in dev branch.
 
